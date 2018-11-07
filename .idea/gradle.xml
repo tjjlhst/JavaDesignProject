@@ -8,6 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AdapterModule" />
             <option value="$PROJECT_DIR$/BridgeModule" />
             <option value="$PROJECT_DIR$/BuilderModule" />
             <option value="$PROJECT_DIR$/CompositeModule" />

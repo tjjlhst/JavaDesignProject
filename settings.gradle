@@ -1,1 +1,1 @@
-include ':app', ':MediatorModule', ':BridgeModule', ':BuilderModule', ':CompositeModule'
+include ':app', ':MediatorModule', ':BridgeModule', ':BuilderModule', ':CompositeModule', ':AdapterModule'
