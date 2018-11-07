@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/BridgeModule" />
             <option value="$PROJECT_DIR$/BuilderModule" />
+            <option value="$PROJECT_DIR$/CompositeModule" />
             <option value="$PROJECT_DIR$/MediatorModule" />
             <option value="$PROJECT_DIR$/app" />
           </set>
