@@ -1,4 +1,4 @@
-package com.example.mediatormodule;
+package com.example.compositemodule;
 
 public class Client {
 

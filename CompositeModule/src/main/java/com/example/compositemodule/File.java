@@ -1,4 +1,4 @@
-package com.example.mediatormodule;
+package com.example.compositemodule;
 
 import java.util.List;
 
