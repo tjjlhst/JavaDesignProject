@@ -1,0 +1,1 @@
+include ':app', ':MediatorModule', ':BridgeModule', ':BuilderModule'
