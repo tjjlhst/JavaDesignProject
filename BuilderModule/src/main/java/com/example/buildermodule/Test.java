@@ -1,5 +1,6 @@
-package com.example.mediatormodule;
+package com.example.buildermodule;
 
+//builder模式
 public class Test {
 
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package com.example.mediatormodule;
+package com.example.buildermodule;
 
 public class Macbook extends Computer {
 

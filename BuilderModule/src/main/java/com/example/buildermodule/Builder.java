@@ -1,4 +1,4 @@
-package com.example.mediatormodule;
+package com.example.buildermodule;
 
 //抽象builder类
 public abstract class Builder {

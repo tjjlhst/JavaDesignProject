@@ -1,4 +1,4 @@
-package com.example.mediatormodule;
+package com.example.buildermodule;
 
 //具体的builder，继承自
 public class MacbookBuilder extends Builder {
