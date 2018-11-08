@@ -12,7 +12,10 @@
             <option value="$PROJECT_DIR$/BridgeModule" />
             <option value="$PROJECT_DIR$/BuilderModule" />
             <option value="$PROJECT_DIR$/CompositeModule" />
+            <option value="$PROJECT_DIR$/DecoratorModule" />
+            <option value="$PROJECT_DIR$/FlyweightModule" />
             <option value="$PROJECT_DIR$/MediatorModule" />
+            <option value="$PROJECT_DIR$/ProxyModule" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
