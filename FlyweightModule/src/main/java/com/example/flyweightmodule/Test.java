@@ -7,10 +7,10 @@ public class Test {
         Ticket ticket1 = TicketFactory.getTick("北京","深圳");
         ticket1.showTicketInfo("上铺");
 
-        Ticket ticket2 = TicketFactory.getTick("北京","深圳");
+//        Ticket ticket2 = TicketFactory.getTick("北京","深圳");
         ticket1.showTicketInfo("下铺");
 
-        Ticket ticket3 = TicketFactory.getTick("北京","深圳");
+//        Ticket ticket3 = TicketFactory.getTick("北京","深圳");
         ticket1.showTicketInfo("中铺");
 
 
